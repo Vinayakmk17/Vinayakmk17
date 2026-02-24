@@ -42,7 +42,7 @@
 
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinayakmk17&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinayakmk17&show_icons=true&theme=radical&hide_border=true" />
 ---
 
 ### 🔥 Streak Stats
