@@ -42,12 +42,11 @@
 
 
 ### 📊 GitHub Stats
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayakmk17&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinayakmk17&show_icons=true&theme=radical" />
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vinayakmk17&theme=radical)
+<img src="https://streak-stats.demolab.com?user=Vinayakmk17&theme=radical&hide_border=true" />
 
 ---
 
