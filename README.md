@@ -52,4 +52,4 @@
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-kudlamath)
 
-📧 Email: [vinayak@example.com](mailto:vinayak@example.com)  
+ [!Email](mailto:vinayakmkudlamath@gamil.com)  
