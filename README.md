@@ -41,9 +41,10 @@
 - 📚 DSA Practice & Problem Solving
 
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinayakmk17&show_icons=true&theme=radical&hide_border=true" />
----
+## 📊 GitHub Stats
+
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
 
 ### 🔥 Streak Stats
 <img src="https://streak-stats.demolab.com?user=Vinayakmk17&theme=radical&hide_border=true" />
