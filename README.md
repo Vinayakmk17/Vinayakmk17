@@ -42,9 +42,7 @@
 
 
 ## 📊 GitHub Stats
-
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak-kudlamath&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streak Stats
 <img src="https://streak-stats.demolab.com?user=Vinayakmk17&theme=radical&hide_border=true" />
